@@ -1,0 +1,39 @@
+1	What	_	PRON	WP	_	0	root	_	_
+2	is	_	AUX	VBZ	_	1	cop	_	_
+3	the	_	DET	DT	_	6	det	_	_
+4	first	_	ADJ	JJ	_	6	amod	_	_
+5	Indian	_	ADJ	JJ	_	6	amod	_	_
+6	text	_	NOUN	NN	_	1	nsubj	_	_
+7	to	_	PART	TO	_	8	mark	_	_
+8	mention	_	VERB	VB	_	6	acl	_	_
+9	iron	_	NOUN	NN	_	8	obj	_	_
+10	?	_	PUNCT	.	_	1	punct	_	_
+
+1	Atharvaveda	_	PROPN	NNP	_	0	root	_	_
+
+1	Which	_	DET	WDT	_	2	det	_	_
+2	artist	_	NOUN	NN	_	3	nsubj	_	_
+3	made	_	VERB	VBD	_	0	root	_	_
+4	Bobby	_	PROPN	NNP	_	7	nmod:poss	_	_
+5	Troup	_	PROPN	NNP	_	4	flat	_	_
+6	's	_	PART	POS	_	4	case	_	_
+7	song	_	NOUN	NN	_	3	obj	_	_
+8	famous	_	ADJ	JJ	_	3	xcomp	_	_
+9	?	_	PUNCT	.	_	3	punct	_	_
+
+1	Nat	_	PROPN	NNP	_	3	compound	_	_
+2	King	_	PROPN	NNP	_	1	flat	_	_
+3	Cole	_	PROPN	NNP	_	0	root	_	_
+
+1	What	_	DET	WDT	_	2	det	_	_
+2	style	_	NOUN	NN	_	8	nsubj:pass	_	_
+3	of	_	ADP	IN	_	4	case	_	_
+4	music	_	NOUN	NN	_	2	nmod	_	_
+5	was	_	AUX	VBD	_	8	aux:pass	_	_
+6	Gary	_	PROPN	NNP	_	8	nsubj:pass	_	_
+7	Numan	_	PROPN	NNP	_	6	flat	_	_
+8	associated	_	VERB	VBN	_	0	root	_	_
+9	with	_	ADP	IN	_	8	obl	_	_
+10	?	_	PUNCT	.	_	8	punct	_	_
+
+1	synthpop	_	NOUN	NN	_	0	root	_	_
