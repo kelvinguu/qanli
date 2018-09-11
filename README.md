@@ -1,6 +1,10 @@
 # QA2D
 
-A model for transforming questions + short answers into full answer sentences.
+A model for transforming questions + short answers into full answer sentences. 
+
+The dataset and the models are described in the following paper:
+
+>Demszky, D., Guu, K., & Liang, P. (2018). Transforming Question Answering Datasets Into Natural Language Inference Datasets. arXiv preprint. _arXiv:1809.02922_.[[link](https://arxiv.org/abs/1809.02922)]
 
 This repo contains the code and examples for both the rule-based model and the neural model.
 
