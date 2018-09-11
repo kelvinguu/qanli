@@ -18,3 +18,7 @@ We illustrate how to use the rule-based model in the designated jupyter notebook
 3. POS tag the file. For ours, we used the parser by [Dozat et al. (2017)](https://github.com/tdozat/Parser-v2), which can be used as a tagger as well.
 4. Dependency parse the file. We parsed ours with [Dozat et al. (2017)](https://github.com/tdozat/Parser-v2). 
 5. Use the resulting, tagged and parsed `examples.conllu` file as an input for the model, as shown in the jupyter notebook `Rule-based Example.ipynb`. 
+
+
+### Neural model
+Coming soon.
