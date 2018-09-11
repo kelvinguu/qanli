@@ -4,6 +4,8 @@ A model for transforming questions + short answers into full answer sentences.
 
 This repo contains the code and examples for both the rule-based model and the neural model.
 
+Data available on [Codalab](https://worksheets.codalab.org/worksheets/0xd4ebc52cebb84130a07cbfe81597aaf0/).
+
 ### Rule-based model
 
 We illustrate how to use the rule-based model in the designated jupyter notebook. The input sentences have to be dependency parsed. We created our example file in the following manner:
